@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class J0904_05 {
 
 	public static void main(String[] args) {
+		
 		// 10,5 두수를 입력받아, 큰수를 출력하시오.
 		//1. 두수를 입력받아 출력하시오.
 		//2. 두수를 비교해서 큰수 출력하시오.

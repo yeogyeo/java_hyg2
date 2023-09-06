@@ -3,6 +3,7 @@ package p0904;
 public class J0904_08 {
 
 	public static void main(String[] args) {
+		
 		int num = 6;
 		switch (num) {
 		case 1:

@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class J0904_09 {
 
 	public static void main(String[] args) {
+		
 		// 1. 두수를 입력받고, 
 		Scanner scan = new Scanner(System.in);
 		int num1=0,num2=0;

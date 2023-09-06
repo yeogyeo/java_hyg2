@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class J0904_04 {
 
 	public static void main(String[] args) {
+		
 		// 90점이상 A, 80점이상 B, 70점이상 C 60점이상 D,F
 		// 점수를 입력받아, 성적을 출력하시오
 		// 98점이상 A+, 93점이하 A-

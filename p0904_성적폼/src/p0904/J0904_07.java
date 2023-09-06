@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class J0904_07 {
 
 	public static void main(String[] args) {
+		
 		Scanner scan = new Scanner(System.in);
 		//1부터 10까지의 랜덤숫자를 생성후
 		// 3개 숫자를 입력받아, 정갑을 맞추는 프로그램을 구현하시오.

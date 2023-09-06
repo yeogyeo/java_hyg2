@@ -7,6 +7,7 @@ public class J0904_03 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
+		
 		//문자 '0'에서 '9'사이의 문자이면 문자 숫자입니다. 문자 숫자가 아닙니다.
 		
 		System.out.println("2자리 문자를 입력하세요.");

@@ -3,6 +3,7 @@ package p0904;
 public class J0904_06 {
 
 	public static void main(String[] args) {
+		
 		double temp = Math.random(); //round()-반올림,ceil()-올림,floor()-버림
 		//1부터 10까지 랜덤 정수값
 		int num = (int)(Math.random()*10)+1;

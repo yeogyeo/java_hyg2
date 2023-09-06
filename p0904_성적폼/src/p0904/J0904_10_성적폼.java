@@ -30,6 +30,7 @@ public class J0904_10_성적폼 {
 			
 			
 			
+			
 			break;
 		case 2:
 			System.out.println("성적출력을 선택하셨습니다.");

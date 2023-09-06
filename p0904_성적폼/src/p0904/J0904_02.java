@@ -7,6 +7,7 @@ public class J0904_02 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
+		
 		//두수를 입력받아, 두수의 곱을 맞추는 프로그램을 구현하시오.
 		// 두수를 입력받아, 출력하시오.
 		// 두수의 곱의 정갑을 입력해서, 맞으면 정답, 틀리면 오답이라고 출력하시오.

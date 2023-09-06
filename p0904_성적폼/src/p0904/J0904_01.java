@@ -7,6 +7,7 @@ public class J0904_01 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
+		
 		// 90점이상이면 A, 80점 이상이면 B, 70점이상 C, 60점이상 D, F
 		System.out.println("점수를 입력하세요");
 		int score = scan.nextInt();
