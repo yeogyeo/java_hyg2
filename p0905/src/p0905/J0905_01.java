@@ -18,12 +18,14 @@ public class J0905_01 {
 			//입력한 숫자와 랜덤숫자가 맞는지 비교
 			if(random==num) {
 				System.out.println("정답입니다.");
+				
 				break; // 반복문을 중간에 종료할때 쓰는 명령어
 			}else {
 				System.out.println("오답입니다.");
 			
 		}
 		}//for
+		
 		
 		
 		

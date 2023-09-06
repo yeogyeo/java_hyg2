@@ -15,10 +15,12 @@ public class J0905_02 {
             if(sum>=200) {
             	break;
             }
+            
 	 }
 		
 		System.out.printf("정답 : %d, %d \n",i,sum);
 		System.out.printf("이전단계 : %d, %d \n",i-1,sum-i);
 
+		
    }
 }

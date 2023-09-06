@@ -7,6 +7,7 @@ public class J0905_12 {
 		
 		
 		
+		
 		int[] score = new int[10];
 //		score[0] = 10;
 //		score[1] = 11;

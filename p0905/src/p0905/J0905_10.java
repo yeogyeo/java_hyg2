@@ -20,6 +20,7 @@ public class J0905_10 {
 				}
 			System.out.printf("%d * %d = %d \n",i,j,i+j);
 				
+			
 			}
 			
 			

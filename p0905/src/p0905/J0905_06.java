@@ -16,6 +16,7 @@ public class J0905_06 {
 //			i++;//증감식
 //		}//while
 	
+		
 	
 		for(int i=2;i<=20;i++) {
 			for(int j=1;j<=20;j++) {

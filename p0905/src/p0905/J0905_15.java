@@ -9,21 +9,24 @@ public class J0905_15 {
 		// 1-100 랜덤숫자를 생성해서 맞추는 프로그램을 구현하시오.
 		
 		
-		int random = (int)(Math.random()*100)+1;
 		
-		while(true) {
-			System.out.println("숫자를 써라>>");
-			int i = scan.nextInt();
-			
-			if(random==i) {
-				System.out.println("맞췄다.");
-				break;
-			}else if(random>i) {
-				System.out.println("틀렸다 더 큰수다.");
-			}else {
-				System.out.println("틀렸다 더 작은 수다.");
-			}
-		}
+		
+		
+//		int random = (int)(Math.random()*100)+1;
+//		
+//		while(true) {
+//			System.out.println("숫자를 써라>>");
+//			int i = scan.nextInt();
+//			
+//			if(random==i) {
+//				System.out.println("맞췄다.");
+//				break;
+//			}else if(random>i) {
+//				System.out.println("틀렸다 더 큰수다.");
+//			}else {
+//				System.out.println("틀렸다 더 작은 수다.");
+//			}
+//		}
 		
 		
 //		int random = (int)(Math.random()*100)+1;
