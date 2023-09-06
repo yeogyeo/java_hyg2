@@ -17,6 +17,7 @@ public class J0905_07 {
 
 		
 		
+		
 		i=1;
 		while(i<=100) {
 			sum = sum + i;

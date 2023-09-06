@@ -11,6 +11,7 @@ public class J0905_14 {
 		
 		
 		
+		
 		int[] num = new int[10]; 
 		int random = (int)(Math.random()*100)+1;
 		int i = 0;

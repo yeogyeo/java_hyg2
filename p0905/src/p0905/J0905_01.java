@@ -22,6 +22,7 @@ public class J0905_01 {
 				break; // 반복문을 중간에 종료.할때 쓰는 명령어
 			}else {
 				System.out.println("오답입니다.");
+				
 			
 		}
 		}//for

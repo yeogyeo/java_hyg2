@@ -13,6 +13,7 @@ public class J0905_08 {
 		System.out.println("[ 숫자 맞추기 게임 ]");
 		
 		
+		
 		//숫자맞추기
 		while(true) {
 			System.out.println("1-100사이의 숫자를 입력하세요.");

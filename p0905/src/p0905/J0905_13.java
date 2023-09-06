@@ -14,6 +14,7 @@ public class J0905_13 {
 		
 		
 		
+		
 		//1개씩 출력
 //		System.out.println(score[0]);
 //		System.out.println(score[1]);

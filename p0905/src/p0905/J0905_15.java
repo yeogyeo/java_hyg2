@@ -16,6 +16,7 @@ public class J0905_15 {
 		
 		
 		
+		
 //	    int random = (int)(Math.random()*100)+1;
 //	    
 //	    while(true) {

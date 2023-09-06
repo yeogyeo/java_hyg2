@@ -3,6 +3,7 @@ package p0905;
 import java.util.Scanner;
 
 public class J0905_17 {
+	
 
 	public static void main(String[] args) {
 		// 1-100 랜덤숫자를 생성해서 맞추는 프로그램을 구현하시오.
