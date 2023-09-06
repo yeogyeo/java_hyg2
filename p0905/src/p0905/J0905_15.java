@@ -7,10 +7,30 @@ public class J0905_15 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		// 1-100 랜덤숫자를 생성해서 맞추는 프로그램을 구현하시오.
+		// 1.1-100랜덤숫자 생성
+		// 2. 입력
+		// 3. 비교
+		// 4. 출력
 		
 		
 		
 		
+		
+//	    int random = (int)(Math.random()*100)+1;
+//	    
+//	    while(true) {
+//	    	System.out.println("숫자 입력란>>");
+//	    	int i = scan.nextInt();
+//	    	
+//	    	if(random==i) {
+//	    		System.out.println("oo");
+//	    		break;
+//	    	}else if(random>i) {
+//	    		System.out.println("더큰수임");
+//	    	}else {
+//	    		System.out.println("더작은수임");
+//	    	}
+//	    }
 		
 //		int random = (int)(Math.random()*100)+1;
 //		

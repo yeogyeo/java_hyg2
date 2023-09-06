@@ -23,6 +23,13 @@ public class J0904_10_성적폼 {
 		switch(choice) {
 		case 1:
 			System.out.println("성적입력을 선택하셨습니다.");
+			
+			
+			
+			
+			
+			
+			
 			break;
 		case 2:
 			System.out.println("성적출력을 선택하셨습니다.");

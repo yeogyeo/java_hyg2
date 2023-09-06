@@ -19,7 +19,7 @@ public class J0905_01 {
 			if(random==num) {
 				System.out.println("정답입니다.");
 				
-				break; // 반복문을 중간에 종료할때 쓰는 명령어
+				break; // 반복문을 중간에 종료.할때 쓰는 명령어
 			}else {
 				System.out.println("오답입니다.");
 			
