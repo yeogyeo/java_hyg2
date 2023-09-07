@@ -13,6 +13,7 @@ public class J0906_01 {
 //		random[4] = (int)(Math.random()*45);
 //		random[5] = (int)(Math.random()*45);
 		
+		
 		for(int i=0;i<6;i++) {
 			random[i] = (int)(Math.random()*45);
 		}

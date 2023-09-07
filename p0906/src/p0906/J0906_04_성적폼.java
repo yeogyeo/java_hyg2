@@ -15,6 +15,7 @@ public class J0906_04_성적폼 {
 		double[] avg = new double[10];
 		int count = 0; //입력된 학생변수
 		
+		
        loop1:while(true) {//무한반복
         	System.out.println("[ 학생성적 프로그램 ]");
     		System.out.println("1. 성적입력");

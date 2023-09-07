@@ -16,5 +16,6 @@ public class J0906_06 {
 		System.out.println((char)(ch3-32));
 
 	}
+	
 
 }

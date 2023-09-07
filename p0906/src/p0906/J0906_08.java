@@ -37,6 +37,7 @@ public class J0906_08 {
 			}
 		}
 		
+		
 		System.out.printf("%s\t%s\t%s\n",subject[0],subject[1],subject[2]);
 		System.out.println("-------------------------------------------------------");
 		for(int i=0;i<5;i++) {

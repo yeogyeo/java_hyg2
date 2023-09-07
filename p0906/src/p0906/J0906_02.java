@@ -11,6 +11,7 @@ public class J0906_02 {
 	    	arrNum[i]= i+1;
 	    	
 	    }
+		
 	    
 	    System.out.println("입력된 숫자 : ");
 	    for(int i=0;i<arrNum.length;i++) {

@@ -30,6 +30,7 @@ public class J0906_03 {
 
 		for (int i = 0; i < name.length; i++) {
 			
+			
 			// 입력부분
 			System.out.println((i + 1) + "번째 이름을 입력하세요.(중지하려면:0입력)");
 			name[i] = scan.nextLine(); //"0" String

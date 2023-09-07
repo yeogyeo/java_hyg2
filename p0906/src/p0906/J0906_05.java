@@ -12,6 +12,7 @@ public class J0906_05 {
 		int[] winlotto = new int[6]; //당첨번호
 		int[] myNum = new int[6];    //입력번호
 		
+		
 
 		// 1-45 번호 입력 부분
 		for (int i = 0; i < lotto.length; i++) {

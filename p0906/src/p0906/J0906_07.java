@@ -13,6 +13,7 @@ public class J0906_07 {
 		System.out.println("num : "+num);
 		
 		
+		
 
 }
 }
