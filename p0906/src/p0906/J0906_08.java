@@ -37,7 +37,15 @@ public class J0906_08 {
 			}
 		}
 		
-		System.out.println();
+		System.out.printf("%s\t%s\t%s\n",subject[0],subject[1],subject[2]);
+		System.out.println("-------------------------------------------------------");
+		for(int i=0;i<5;i++) {
+			for(int j=0;j<3;j++) {
+				System.out.print(score[i][j]+"\t");
+				
+			}
+			System.out.println();
+		}
 		
 		
 		
