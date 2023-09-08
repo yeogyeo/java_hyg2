@@ -6,6 +6,7 @@ public class J0907_08 {
 		String str = "123";
 		String str2 = "100";
 		
+		
 		int no = Integer.parseInt(str); 
 		int no2 = Integer.parseInt(str2);
 		

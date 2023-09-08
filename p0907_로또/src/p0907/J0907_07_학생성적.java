@@ -3,6 +3,7 @@ package p0907;
 import java.util.Scanner;
 
 public class J0907_07_학생성적 {
+	
 
 	public static void main(String[] args) {
 		// 학생성적 프로그램

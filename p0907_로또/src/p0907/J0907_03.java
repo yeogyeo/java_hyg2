@@ -9,6 +9,8 @@ public class J0907_03 {
 		int[] score = new int[5]; //0,0,0,0,0
 		
 		
+		
+		
 		// score = num; 얕은복사, 주소복사
 		
 		// 1. 배열복사 방법 -for문사용, 데이터값 전체를 다른 장소에 복사

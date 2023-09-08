@@ -7,6 +7,8 @@ public class J0907_02 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
+		
+		
 		// score[5][5] -> 1-25까지 숫자를 입력해서 2차원 형태로 출력하시오.
 		
 		int[] temp = new int[25];

@@ -12,6 +12,8 @@ public class J0907_01 {
 			}
 		}
 		
+		
+		
 		//출력
 		for(int i=0;i<5;i++) {
 			for(int j=0;j<3;j++) {
