@@ -2,14 +2,24 @@ package p0912;
 
 public class Deck {
 	
+	
 	String[] shape = {"Heart","Spade","Diamond","Clover"};
 	Card[] c = new Card[52];
 	
 	Deck() {
 		for(int i=0;i<c.length;i++) {
-			c[i] = new Card(shape[1/13],i%13+1);
+			c[i] = new Card(shape[i/13],i%13+1);
 			System.out.println(c[i]);
 		}
+	
+//	String[] shape = {"Heart","Spade","Diamond","Clover"};
+//	Card[] c = new Card[52];
+//	
+//	Deck() {
+//		for(int i=0;i<c.length;i++) {
+//			c[i] = new Card(shape[i/13],i%13+1);
+//			System.out.println(c[i]);
+//		}
 	
 	
 //	String[] shape = {"Haert","Spade","Diamon","Clover"};
