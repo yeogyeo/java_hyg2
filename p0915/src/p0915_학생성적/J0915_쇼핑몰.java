@@ -14,6 +14,7 @@ public class J0915_쇼핑몰 {
 		
 		
 		
+		
 		Buyer b1 = new Buyer("aaa","홍길동");
 		int choice = 0;
 		programLoop:while(true) {

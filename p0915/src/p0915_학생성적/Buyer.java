@@ -10,6 +10,7 @@ public class Buyer {
 		this.name = name;
 	}
 	
+	
 	String id;
 	String name;
 	int money = 10000000;
