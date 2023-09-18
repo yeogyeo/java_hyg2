@@ -1,15 +1,13 @@
-package p0915_학생성적;
+package p0918_학생성적;
 
 public class StuScore {
 	
 	static int count = 1;
-	//초기화블럭 - 나중엔 DB애서 번호를 부여함.
-	 {
+	{
 		stuNo = count;
 		count++;
 	}
-	 
-	 
+	
 	
 	private int stuNo;
 	private String name;
@@ -20,16 +18,13 @@ public class StuScore {
 	private double avg;
 	private int rank;
 	
+	
+	
 	public int getStuNo() {
 		return stuNo;
 	}
-	
-	
-	
-	
 	public StuScore() {}
-	public StuScore(String name, int kor, int eng, int math) {
-		super();
+	public StuScore (String name, int kor, int eng, int math) {
 		this.name = name;
 		this.kor = kor;
 		this.eng = eng;
@@ -37,11 +32,7 @@ public class StuScore {
 		this.total = kor+eng+math;
 		this.avg = this.total/3.0;
 	}
-
-
-
-
-
+	
 	public void setStuNo(int stuNo) {
 		this.stuNo = stuNo;
 	}
